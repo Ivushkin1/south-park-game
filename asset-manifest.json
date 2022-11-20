@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/south-park-game/static/css/main.73676ef7.css",
+    "main.js": "/south-park-game/static/js/main.456a78ad.js",
+    "static/media/video.mp4": "/south-park-game/static/media/video.1ba40ee5c9c1483c2f2b.mp4",
+    "static/media/Image06.jpg": "/south-park-game/static/media/Image06.7cd8b33274c00afe31f0.jpg",
+    "static/media/Image13.jpg": "/south-park-game/static/media/Image13.68078e614ed3712b35e9.jpg",
+    "static/media/Image05.jpg": "/south-park-game/static/media/Image05.dcb56f7787e54dfbb09d.jpg",
+    "static/media/outro.mp3": "/south-park-game/static/media/outro.a020e99db7f3bac09d9e.mp3",
+    "static/media/boys.png": "/south-park-game/static/media/boys.76fe2f8f47a70c2a2585.png",
+    "static/media/Image15.jpg": "/south-park-game/static/media/Image15.34a2b59610e33895e6fc.jpg",
+    "static/media/Image11.jpg": "/south-park-game/static/media/Image11.8fdc6589224e21e667dd.jpg",
+    "static/media/Image03.jpg": "/south-park-game/static/media/Image03.efd2f9f91e8937a2440e.jpg",
+    "static/media/ImageBack.jpg": "/south-park-game/static/media/ImageBack.b31fc7c281edc159e250.jpg",
+    "static/media/Image09.jpg": "/south-park-game/static/media/Image09.4ed8e1d985d0adf32c17.jpg",
+    "static/media/Image04.jpg": "/south-park-game/static/media/Image04.62ec1439099be89012a2.jpg",
+    "static/media/Image07.jpg": "/south-park-game/static/media/Image07.915c9b1b19bd81bece94.jpg",
+    "static/media/Image01.jpg": "/south-park-game/static/media/Image01.71c0bb37b3a120071aec.jpg",
+    "static/media/Image02.jpg": "/south-park-game/static/media/Image02.3e37469e29852fa748c4.jpg",
+    "static/media/Image12.jpg": "/south-park-game/static/media/Image12.0f21d9d43a0e80a4b1e7.jpg",
+    "static/media/clickSound.mp3": "/south-park-game/static/media/clickSound.040967df14a0ebcca800.mp3",
+    "static/media/Image10.jpg": "/south-park-game/static/media/Image10.01dd7718869db8ec2600.jpg",
+    "static/media/Image14.jpg": "/south-park-game/static/media/Image14.fda3b6119f289cd12a6a.jpg",
+    "static/media/spfont.ttf": "/south-park-game/static/media/spfont.68a50dbb420c476b9fd6.ttf",
+    "static/media/Image08.jpg": "/south-park-game/static/media/Image08.c95633b58777ecf66952.jpg",
+    "index.html": "/south-park-game/index.html",
+    "main.73676ef7.css.map": "/south-park-game/static/css/main.73676ef7.css.map",
+    "main.456a78ad.js.map": "/south-park-game/static/js/main.456a78ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73676ef7.css",
+    "static/js/main.456a78ad.js"
+  ]
+}
