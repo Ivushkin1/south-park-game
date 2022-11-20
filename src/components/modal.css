@@ -1,0 +1,61 @@
+.modal {
+  width: 300px;
+  height: 250px;
+  border-radius: 20px;
+  position: fixed;
+  top: calc(50% - 150px);
+  left: calc(50% - 150px);
+  background-color: rgb(157 119 102);
+  background-image: url('../data/boys.png');
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  box-shadow: 2px 2px 8px 2px rgb(64, 57, 57);
+  z-index: 5;
+  font-family: spfont;
+  scale: 0;
+  transition: scale 0.4s ease;
+  display: flex;
+  flex-direction: column;
+}
+.active {
+  scale: 1;
+}
+h1 {
+  text-align: center;
+  margin-top: 45px;
+  font-size: 40px;
+  user-select: none;
+  color: rgb(41 30 34);
+}
+@font-face {
+  font-family: 'spfont';
+  src: url('../fonts/spfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.btn {
+  margin: 0 auto;
+  position: absolute;
+  top: 70%;
+  left: 35%;
+  height: 40px;
+  width: 90px;
+  border: 0;
+  font-family: spfont;
+  font-size: 35px;
+  cursor: pointer;
+  background: local;
+}
+.btn:hover {
+  scale: 1.2;
+}
+
+.imgBoys {
+  display: block;
+  width: 170px;
+  height: 120px;
+  background: none;
+  margin: 0 auto;
+}
